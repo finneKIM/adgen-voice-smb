@@ -2,9 +2,11 @@
 
 소상공인이 음성 한마디로 홍보 문구·포스터 이미지·배경음악·릴스 영상을 자동 생성할 수 있는 AI 마케팅 어시스턴트입니다.
 
-**서비스 접속**: https://adgen4.duckdns.org/
+**서비스 접속**: https://adgen4.duckdns.org/ *(프로젝트 기간 종료로 현재는 운영되지 않습니다)*
 
 [![AdGen 시연 영상](https://github.com/user-attachments/assets/8bf1ed27-adce-4b11-b503-0ca0fe793f1b)](https://youtu.be/dajeIKtOP-A)
+
+> 클릭하면 YouTube에서 영상을 확인할 수 있습니다.
 
 ---
 
