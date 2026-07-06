@@ -4,9 +4,9 @@
 
 **서비스 접속**: https://adgen4.duckdns.org/ *(프로젝트 기간 종료로 현재는 운영되지 않습니다)*
 
-[![AdGen 시연 영상](https://github.com/user-attachments/assets/8bf1ed27-adce-4b11-b503-0ca0fe793f1b)](https://youtu.be/dajeIKtOP-A)
+**👇 클릭하면 YouTube에서 영상을 확인할 수 있습니다.**
 
-> 클릭하면 YouTube에서 영상을 확인할 수 있습니다.
+[![AdGen 시연 영상](https://github.com/user-attachments/assets/8bf1ed27-adce-4b11-b503-0ca0fe793f1b)](https://youtu.be/dajeIKtOP-A)
 
 ---
 
