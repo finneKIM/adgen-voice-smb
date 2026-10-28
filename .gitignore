@@ -57,3 +57,6 @@ pycache/
 
 alembic.ini
 alembic/__pycache__/
+
+nohup.out
+=*
